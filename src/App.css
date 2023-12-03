@@ -1,0 +1,11 @@
+.App{
+    overflow: hidden;
+}
+.six{
+    height: 1000px;
+}
+@media (max-width: 450px) {
+    .six{
+        height: 400px;
+    }
+}

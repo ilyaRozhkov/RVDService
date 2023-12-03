@@ -1,0 +1,29 @@
+.reviewsitem{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.reviewsitem-name{
+    width: 100%;
+    height: 10%;
+    font-size: 28px;
+}
+.reviewsitem-stars{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+.reviewsitem-reviews{
+    width: 100%;
+    height: 60%;
+    font-size:26px;
+}

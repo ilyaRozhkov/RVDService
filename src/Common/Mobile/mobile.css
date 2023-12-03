@@ -1,0 +1,33 @@
+.mobile{
+    width: 100%;
+    height: 641px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.mobile-feedback{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.mobile-content{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.mobile-content-title{
+    font-size: 60px;
+    text-align: center;
+}
+.mobile-content-text{
+    font-size: 48px;
+    text-align: center;
+}

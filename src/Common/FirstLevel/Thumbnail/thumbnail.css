@@ -1,0 +1,43 @@
+.container-img{
+    width: 100%;
+    height: 880px;
+}
+.container-text{
+    height: 880px;
+    width: 50%;
+    background-color: rgba(17, 9, 9, 0.75);
+    position: relative;
+    top:-884px;
+    color: white;
+}
+.container-text-feedback{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 10px;
+    font-size: 34px;
+}
+
+container-text-feedback-email{
+    border: 1px solid red;
+}
+.container-text-content{
+    width: 100%;
+    height: 70%;
+}
+.container-text-content-title-h1{
+    font-size: 114px;
+    line-height: 1;
+}
+.container-text-content-subtitle{
+    margin-top: 10px;
+    font-size: 56px;
+
+}
+@media (max-width: 1024px) {
+    .container-text-feedback{
+        z-index: 10;
+    }
+}
