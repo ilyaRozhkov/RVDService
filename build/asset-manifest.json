@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.337f5daa.css",
+    "main.js": "/static/js/main.7754def5.js",
+    "static/media/background.png": "/static/media/background.4a1aae0b44d0e92d4cb9.png",
+    "static/media/thumbnail3.png": "/static/media/thumbnail3.4043f241206e758ca6d6.png",
+    "static/media/thumbnail1.png": "/static/media/thumbnail1.b002815060d50d4c51a2.png",
+    "static/media/baground.png": "/static/media/baground.cfebc8408ca767bf7ed5.png",
+    "static/media/thumbnail0.png": "/static/media/thumbnail0.7f9fa13fa99cc9b93d99.png",
+    "static/media/thumbnail4.png": "/static/media/thumbnail4.84f0a050d1062f4cea29.png",
+    "static/media/thumbnail2.png": "/static/media/thumbnail2.6f47bd433d6fb771701a.png",
+    "static/media/images.png": "/static/media/images.286b8f504730d7ff33db.png",
+    "static/media/image.png": "/static/media/image.9d91129edaa2d41bd0fe.png",
+    "static/media/secondIMG.png": "/static/media/secondIMG.0ce9f60a1bcd94efc56c.png",
+    "static/media/thirdIMG.png": "/static/media/thirdIMG.a92a41630f308d16f6ec.png",
+    "static/media/firstIMG.png": "/static/media/firstIMG.b952568d2636e54690cd.png",
+    "static/media/jpg": "/static/media/19b0dd4829aaa6d2c11f6fba9f15e21f.db5a63c5b184e8d9df34.jpg",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.41669c1e4f6bdc605d26.ttf",
+    "static/media/work.svg": "/static/media/work.06b1d08b86e4ebd4722f9f7a351ff205.svg",
+    "static/media/phone.svg": "/static/media/phone.a9685177de246c732a3456a05584f318.svg",
+    "static/media/time.svg": "/static/media/time.e43fd4cef994f1d124258024874a7752.svg",
+    "index.html": "/index.html",
+    "main.337f5daa.css.map": "/static/css/main.337f5daa.css.map",
+    "main.7754def5.js.map": "/static/js/main.7754def5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337f5daa.css",
+    "static/js/main.7754def5.js"
+  ]
+}
