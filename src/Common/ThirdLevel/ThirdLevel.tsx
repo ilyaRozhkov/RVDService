@@ -36,7 +36,7 @@ const ThirdLevel = () => {
                 <div className={'thirdlevel-container-right '}>
                     <div className={'thirdlevel-container-right-title'}>Профессиональная компьютерная диагностика</div>
                     <div className={'thirdlevel-container-right-subtitle'}>- залог правильного проведения ремонтных работ</div>
-                    <div className={'thirdlevel-container-right-text'}>Для диагностики используются современные сканер системы такие как FCAR F7S-G. А также осуществляется
+                    <div className={'thirdlevel-container-right-text'}>Для диагностики используются современные сканер системы такие как FCAR F7S-G, Launch X431 PRO3 FULL V5.0 SE 2023, LNC-099. А также осуществляется
                     прошивка таких ЭБУ как: ECU BOSCH, DELPHI, DENSO</div>
                 </div>
             </div>

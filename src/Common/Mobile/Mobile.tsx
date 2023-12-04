@@ -1,11 +1,14 @@
 import React, {FC} from "react";
 import './mobile.css'
+import bg from '../../img/SecondLevel/mobile.jpg'
 type Data = {
     setActiveModal: ()=>void;
 }
 const Mobile:FC<Data> = ({setActiveModal}) =>{
-    return (
+    return (<>
+        <img src={bg}/>
         <div className={'mobile bold'}>
+
             <div className={'mobile-feedback'}>
                 <div className={'mobile-feedback-phone'}><a style={{color:'white',textDecoration: 'none'}} href='tel:+79998887766'>+7(966)080-10-18</a></div>
                 <div className={'mobile-feedback-mail'} onClick={setActiveModal}>rvdservice24@yandex.ru</div>
@@ -19,6 +22,7 @@ const Mobile:FC<Data> = ({setActiveModal}) =>{
                 </div>
             </div>
         </div>
+        </>
     )
 }
 export default Mobile;
