@@ -1,4 +1,4 @@
-import img0 from '../../img/Thumbnail/thumbnail0.png'
+import img0 from '../../img/Thumbnail/1.png'
 import img1 from '../../img/Thumbnail/thumbnail1.png'
 import img2 from '../../img/Thumbnail/thumbnail2.png'
 import img3 from '../../img/Thumbnail/thumbnail3.png'
