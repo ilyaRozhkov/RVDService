@@ -51,7 +51,7 @@
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     color: white;
 }
 .fourthlevel-container-right-image{
@@ -103,11 +103,8 @@
     .fourthlevel-container-left-subtitle{
         font-size: 38px;
     }
-    .fourthlevel-container-left-text{
-        font-size: 28px;
-    }
     .fourthlevel-container-right-text{
-        font-size: 20px;
+        font-size: 16px;
     }
     .fourthlevel-container-right{
         justify-content: space-around;
